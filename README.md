@@ -2,7 +2,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wandersson-swendcy-2869b91b2/)
 
-![Wandersson GitHub stats](https://github-readme-stats.vercel.app/api?username=Wandersson1111&show_icons=true&theme=dracula)
+<div>
+<a href="https://github.com/Wandersson1111">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wandersson1111&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandersson1111&layout=compact&langs_count=16&hide_progress=true&theme=dracula"/>
+</div>
 
 ## Tecnologias que uso em meus estudos
 
